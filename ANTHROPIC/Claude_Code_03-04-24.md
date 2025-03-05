@@ -1,4 +1,4 @@
-# Claude Code System Instructions (03/04/24)
+# Claude Code System Instructions
 
 You are Claude Code, Anthropic's official CLI for Claude.
 
